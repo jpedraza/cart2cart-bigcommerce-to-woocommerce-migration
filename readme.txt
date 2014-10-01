@@ -66,11 +66,11 @@ In order to detect and investigate the problem, Cart2Cart Support Team may requi
 Make sure that this account is a user-level account that has access to the directory in which your online shop is installed, unless our technician specifically requests an unrestricted access account (see below).
 
 == Screenshots ==
-screenshot-1.jpg
-screenshot-2.jpg
-screenshot-3.jpg
-screenshot-4.jpg
-screenshot-5.jpg
+1. /assets/screenshot-1.jpg
+2. /assets/screenshot-2.jpg
+3. /assets/screenshot-3.jpg
+4. /assets/screenshot-4.jpg
+5. /assets/screenshot-5.jpg
 
 == Changelog ==
-Initial commit  1.0.1
+= 1.0 =* Initial commit
