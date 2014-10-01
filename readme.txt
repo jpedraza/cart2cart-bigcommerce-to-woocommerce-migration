@@ -1,4 +1,4 @@
-=== Cart2Cart: Bigcommerce to WooCommerce Migration ===
+ï»¿=== Cart2Cart: Bigcommerce to WooCommerce Migration ===
 
 Contributors:Cart2Cart
 Tags: bigcommerce to woocommerce, bigcommerce to woocommerce migration, move from bigcommerce to woocommerce, migrate from bigcommerce to woocommerce. 
@@ -44,15 +44,10 @@ This plugin will help you to set up the connection between your Bigcommerce and 
 1. Download zip plugin file.
 1. Unarchive it to your computer.  
 1. Upload extracted file to wp-content/plugin directory.
-1. Proceed to Admin -> Plugins, click and activate“Cart2Cart Bigcommerce to WooCommerce Migration”.
+1. Proceed to Admin -> Plugins, click and activateï¿½Cart2Cart Bigcommerce to WooCommerce Migrationï¿½.
 1. Paste Bigcommerce API details. 
 1. Connection Bridge for WooCommerce will be downloaded automatically.
 1. Click Start Migration and wait for a redirection to Cart2Cart website. After you can continue your Full Migration with no difficulties.
-
-== Screenshots ==
-Screenshot1
-Screenshot2
-Screenshot3
 
 == Frequently Asked Questions ==
 = Is there a possibility to migrate reviews to WooCommerce? =
@@ -71,9 +66,11 @@ In order to detect and investigate the problem, Cart2Cart Support Team may requi
 Make sure that this account is a user-level account that has access to the directory in which your online shop is installed, unless our technician specifically requests an unrestricted access account (see below).
 
 == Screenshots ==
-Screenshot-1.jpg
-Screenshot-2.jpg
-Screenshot-3.jpg
+screenshot-1.jpg
+screenshot-2.jpg
+screenshot-3.jpg
+screenshot-4.jpg
+screenshot-5.jpg
 
 == Changelog ==
 Initial commit  1.0.1
