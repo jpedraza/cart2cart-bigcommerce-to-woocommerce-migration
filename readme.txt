@@ -3,8 +3,8 @@
 Contributors:Cart2Cart
 Tags: bigcommerce to woocommerce, bigcommerce to woocommerce migration, move from bigcommerce to woocommerce, migrate from bigcommerce to woocommerce. 
 Requires at least: 3.8.1
-Tested up to: 3.8.1
-Stable tag: 3.8.1
+Tested up to: 4.0
+Stable tag: 4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
